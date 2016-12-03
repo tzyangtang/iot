@@ -2,6 +2,8 @@
 
 LinkIt Smart 7688 Duo + PIR Motion Sensor + Web Cam
 
+![Project Illustration](http://www.lambmobistudio.com/imgs/iot-project-illustration.png)
+
 Workflow:
 
 1. PIR detects suspicious object movement
